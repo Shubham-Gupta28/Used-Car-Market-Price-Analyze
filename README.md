@@ -81,7 +81,7 @@ Instead of using a ready-made dataset, built a custom web scraper to collect rea
 | 3 | Lasso Regression | 0.39 | 39% |
 | 4 | Decision Tree | 0.32 | 32% |
 | 5 | Random Forest | 0.45 | 45% |
-| 6 | XGBoost | 0.72 | 72% 🏆 |
+| 6 | XGBoost | 0.72 | 72%  |
 | 7 | KNN | 0.50 | 50% |
 
 ### Best Model: XGBoost
