@@ -72,16 +72,6 @@ Instead of using a ready-made dataset, built a custom web scraper to collect rea
 | Toyota Innova (2013) | Toyota | ₹6,49,999 | 2013 | 1,55,000 | Diesel | Automatic | Rajahmundry |
 
 
-##  Tech Stack
-Python 3.9+ │
-│ ├──  Pandas, NumPy (Data Processing) │
-│ ├──  Matplotlib, Seaborn (Visualization) │
-│ ├──  Scikit-learn (ML Models) │
-│ ├──  SHAP (Interpretation) │
-│ ├──  Selenium (Web Scraping) │
-│ └──  Jupyter Notebook (Development) │
-
-
 ## Models Compared
 
 | # | Model | Test R² | Accuracy |
